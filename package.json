@@ -1,0 +1,27 @@
+{
+  "name": "playwright-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaishnavi201999/Playwright-Cucumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vaishnavi201999/Playwright-Cucumber/issues"
+  },
+  "homepage": "https://github.com/Vaishnavi201999/Playwright-Cucumber#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.1",
+    "ts-node": "^10.9.2"
+  }
+}
